@@ -1,0 +1,2805 @@
+{
+  "stores": [
+    {
+      "name": "Lemonnade - Portland",
+      "id": 130410,
+      "address1": "11321 SW 64th Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://images.leafly.com/menu/fC684rMyR3KUtk8a9SaK_Its_been_a_long_time_coming_for_Oregon_This_is_just_the_beginning_.thelemonnade_berner415_cookiesenterprises_pistilpoint.jpg",
+      "deals": [
+        {
+          "dealId": 2100032,
+          "details": "10% OFF ALL CBD PRODUCTS ",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2020-01-01T08:00:00+00:00",
+          "storeId": 130410,
+          "title": "Wellness Wednesday"
+        },
+        {
+          "dealId": 2022543,
+          "details": "10% Off All Topicals and Tinctures",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls1.png",
+          "startDate": "2020-01-01T08:00:00+00:00",
+          "storeId": 130410,
+          "title": "Topical Tuesday"
+        },
+        {
+          "dealId": 1335402,
+          "details": "10% off all cartridges!",
+          "endDate": "2022-03-26T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/FFug5INOQZiyQxZCY2Hy_YzoxdIJ-1024x1024.jpg",
+          "startDate": "2021-03-25T07:00:00+00:00",
+          "storeId": 130410,
+          "title": "B4 Fryday"
+        },
+        {
+          "dealId": 1335404,
+          "details": "Get 10% off all Edibles All day Monday!!",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/GPBoLjU0SD6Vfh54QgOx_hqdefault.jpg",
+          "startDate": "2020-01-01T08:00:00+00:00",
+          "storeId": 130410,
+          "title": "Munchie Mondays -- 10% Off edibles"
+        },
+        {
+          "dealId": 2103375,
+          "details": "10% off select flower",
+          "endDate": "2022-03-26T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": "2021-03-25T07:00:00+00:00",
+          "storeId": 130410,
+          "title": "Flower Friday"
+        },
+        {
+          "dealId": 1335406,
+          "details": "10% OFF ALL Concentrates",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/concentrates2.png",
+          "startDate": "2020-01-01T08:00:00+00:00",
+          "storeId": 130410,
+          "title": "Shatterday!"
+        },
+        {
+          "dealId": 2000238,
+          "details": "Your choice of daily specials.",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2020-01-01T08:00:00+00:00",
+          "storeId": 130410,
+          "title": "Silly Sundays"
+        },
+        {
+          "dealId": 2101733,
+          "details": "8pm - 10 pm 10 percent off entire purchase \nno minimum or maximum \n\n**Exclusive strains are excluded. Ask our cannabis consultant for more details. ",
+          "endDate": "2024-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2020-01-14T08:00:00+00:00",
+          "storeId": 130410,
+          "title": "Happy Hour"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 245,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        }
+      },
+      "starRating": 4.6938775510204085,
+      "tagline": "Portland Lemonnade",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97219",
+      "distanceToUser": 5.971452159051581,
+      "locations": [{ "lat": 45.44357979999998, "lon": -122.7430904 }]
+    },
+    {
+      "name": "Trees Waterfront",
+      "id": 303279,
+      "address1": "3607 S Corbett Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/RmJtbbEtTnWTysReP9Xs_trees.jpg",
+      "deals": [
+        {
+          "dealId": 2098116,
+          "details": "$35 Half Ounce or $60 Ounce Specials! Strains Change Daily!\n\nVisit https://www.trees.menu/waterfront/ to pre-order and quick pick up.\n\nWhile Supplies Last!",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FBeGyDlsrSZCPwS8HqXJM_random%20strains%20for%20stock%20OMMP%20sales.jpg",
+          "startDate": "2021-01-13T08:00:00+00:00",
+          "storeId": 303279,
+          "title": "$35 HALF OUNCE / $60 OUNCE SPECIAL!"
+        },
+        {
+          "dealId": 2158701,
+          "details": "Launch PODS\n$40 \n\nVisit https://www.trees.menu/waterfront/ to pre-order and quick pick up.\n\nWhile Supplies Last!",
+          "endDate": "2021-04-01T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2Fc0enSfERPywR0IMK8pkA_DAF-Launch-Pod.jpg",
+          "startDate": "2021-03-16T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "Dirty Arm Farm"
+        },
+        {
+          "dealId": 2173910,
+          "details": "GMO Cookies is a powerful indica marijuana strain made by crossing Chemdog with GSC. This strain produces relaxing effects you can feel through your body while your mind retains focus. GMO Cookies is loved for its ability to relieve stress and aches without total sedation. GMO Cookies features aromas like diesel, coffee and fruit. Medical marijuana patients choose this strain to help relieve symptoms associated with chronic pain.",
+          "endDate": "2021-05-01T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FXCTZqTGoQMqZwFHi8m5w_GMO_Cookies_-_Summary_Farm.JPG",
+          "startDate": "2021-04-17T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "Summary Farms - GMO Cookies 37.45% THC $40 1/8 $80 1/4"
+        },
+        {
+          "dealId": 2173911,
+          "details": "THC & CBD Gummies",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FJpnZDTJdRli4Jj8sySvI_wyld-logo.jpg",
+          "startDate": "2021-04-17T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "WYLD: 35% OFF "
+        },
+        {
+          "dealId": 2173912,
+          "details": " $15 Mimosa (H).5g Live Resin Cart",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FMJEAE3SZTzWMTC0h3Or9_yerba-cart.PNG",
+          "startDate": "2021-04-17T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "Yerba Buena:"
+        },
+        {
+          "dealId": 2173913,
+          "details": "30% Off Gummies/Brownies",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FcA9kCLAS5aAM2hYdA48M_hapy-kitchen---1pc-brownie.jpg",
+          "startDate": "2021-04-19T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "Happy Kitchen: "
+        },
+        {
+          "dealId": 2173914,
+          "details": "30% Off Infused Joint & Sugar Wax",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FSD3bVp5T1uXEgho4n9Ln_CBDiscovery---1g-Sugar-Wax.jpg",
+          "startDate": "2021-04-19T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "CBDiscovery: "
+        },
+        {
+          "dealId": 2173915,
+          "details": "30% Off Shatter, Badder, Diamonds, Backpacks, 1g Joints",
+          "endDate": "2021-04-24T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FbopnhPiSQWpMbtFqx9lm_estaweeda-logo.png",
+          "startDate": "2021-04-19T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "Estaweeda: "
+        },
+        {
+          "dealId": 2173916,
+          "details": "$20 Puff Packs - Limit 1 per transaction\nGolden Goat - (S)\nGelato Cake - (IH) $20 per pack\n$55 OZ\nGolden Goat B’s - (S) THC 23.79%  CBD 0%\nStrawberry Cough B’s - (S) THC 21.47%  CBD 0%\nTier 4 @ Tier 3 Price\nOrange Bvbbvlegvm - (H) THC 21.99%  CBD 0%\nTier 5 @ Tier 4 Price\nChiesel - (H) THC 33.97%  CBD 0% \nKush Mints - (H) THC 30.91%  CBD 0%\n",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FmhBEJVNxQdCBuxvRfp4T_Garden-first-logo.png",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "Garden First Cannabis:"
+        },
+        {
+          "dealId": 2173917,
+          "details": "Ursa Major, originally known as Krypto Kronic, comes with a funky aroma and effects that break the laws of productivity, this mystical cultivar must come from another constellation. The clearheaded high still satisfies daily users with a psychedelic dose, while sharpening focus and blurring out distractions so you can settle into completing the project you’ve been avoiding.",
+          "endDate": "2021-05-01T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FaXcVKiUmSDqoyh9lyKe9_Pruf-Cultivar-Ursa-Major.PNG",
+          "startDate": "2021-04-17T07:00:00+00:00",
+          "storeId": 303279,
+          "title": "Pruf Cultivar: Ursa Major 26.87% THC"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 22,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        }
+      },
+      "starRating": 4.2727272727272725,
+      "tagline": "Trees Dispensary Corbett",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97239",
+      "distanceToUser": 1.169106342979664,
+      "locations": [{ "lat": 45.497161, "lon": -122.676024 }]
+    },
+    {
+      "name": "Homegrown Oregon - Beaverton",
+      "id": 306831,
+      "address1": "6330 SW Beaverton Hillsdale Highway",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/qUP3WE3TGC6rKj2tAUeQ_HOshop.jpg",
+      "deals": [
+        {
+          "dealId": 2094968,
+          "details": "Sunday Funday! Get 15% Off Flower all day AND when you check in receive DOUBLE reward points every Sunday!\nFOR A LIMITED TIME GET A JOINT FOR $1 WHEN YOU CHECK IN OR JOIN THE REWARDS PROGRAM. WHILE SUPPLIES LAST. Limit one per day per customer.",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": "2019-12-02T08:00:00+00:00",
+          "storeId": 306831,
+          "title": "SUNDAY FUNDAY: GET 15% OFF FLOWER + DOUBLE REWARD POINTS! + $1 JOINT (LIMIT 1)"
+        },
+        {
+          "dealId": 2094958,
+          "details": "Every Munchie Monday, get 15% off Edibles AND all HGO Merchandise! \n\nFor our Valued Medical Patients: Get 15% off their entire purchase!\nFOR A LIMITED TIME GET A JOINT FOR $1 WHEN YOU CHECK IN OR JOIN THE REWARDS PROGRAM. WHILE SUPPLIES LAST. Limit one per day per customer.",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/edibles2.png",
+          "startDate": "2019-12-02T08:00:00+00:00",
+          "storeId": 306831,
+          "title": "MONDAY: Get 15% OFF EDIBLES & HGO MERCHANDISE, PATIENTS GET 15% OFF PURCHASE! + $1 JOINT (LIMIT 1)"
+        },
+        {
+          "dealId": 2094960,
+          "details": "Toasty Tuesday! Get 15% off Cartridges all day! \nFOR A LIMITED TIME GET A JOINT FOR $1 WHEN YOU CHECK IN OR JOIN THE REWARDS PROGRAM. WHILE SUPPLIES LAST. Limit one per day per customer.",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/jhhW4YbRQKGngxiCvPbM_image.png",
+          "startDate": "2019-12-02T08:00:00+00:00",
+          "storeId": 306831,
+          "title": "TUESDAY: 15% OFF CARTRIDGES! + $1 JOINT (LIMIT 1)"
+        },
+        {
+          "dealId": 2094962,
+          "details": "Every Wake 'N Bake Wednesday, Get 15% Off Flower Quarters & Above!\n\nFOR A LIMITED TIME GET A JOINT FOR $1 WHEN YOU CHECK IN OR JOIN THE REWARDS PROGRAM. WHILE SUPPLIES LAST. Limit one per day per customer.",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2019-12-02T08:00:00+00:00",
+          "storeId": 306831,
+          "title": "WEDNESDAY: Get 15% OFF FLOWER QUARTERS & UP! + $1 JOINT (LIMIT 1)"
+        },
+        {
+          "dealId": 2094964,
+          "details": "THRIFTY THURSDAY! Buy any regularly priced Edible, Concentrate (Cartridge or Dab) and a Flower item and get 20% off all of them! Must buy one of each to qualify (does not apply to $10 8ths/ounce deals or $10/$15 dabs or $1 joints)\n\nFOR A LIMITED TIME GET A JOINT FOR $1 WHEN YOU CHECK IN OR JOIN THE REWARDS PROGRAM. WHILE SUPPLIES LAST. Limit one per day per customer.",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2019-12-02T08:00:00+00:00",
+          "storeId": 306831,
+          "title": "THURSDAY: BUY AN EDIBLE + CARTRIDGE OR DAB + FLOWER ITEM TO GET 20% OFF EACH! & $1 JOINT (LIMIT 1)"
+        },
+        {
+          "dealId": 2094965,
+          "details": "FRIED FRIDAY! Get 20% Off Half & Full Gram joints and $2 Off Packs of Joints!\nFOR A LIMITED TIME GET A JOINT FOR $1 WHEN YOU CHECK IN OR JOIN THE REWARDS PROGRAM. WHILE SUPPLIES LAST. Limit one per day per customer.",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2019-12-02T08:00:00+00:00",
+          "storeId": 306831,
+          "title": "FRIDAY: GET 20% OFF SINGLE JOINTS & $2 OFF JOINT PACKS! & $1 JOINT (LIMIT 1)"
+        },
+        {
+          "dealId": 2094967,
+          "details": "EVERY SHATTER DAY, Get $5 Off Dabs starting at $20 & $10 Off any Dabs starting at $60! FOR A LIMITED TIME GET A JOINT FOR $1 WHEN YOU CHECK IN OR JOIN THE REWARDS PROGRAM. WHILE SUPPLIES LAST. Limit one per day per customer.",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/concentrates2.png",
+          "startDate": "2019-12-02T08:00:00+00:00",
+          "storeId": 306831,
+          "title": "SATURDAY: GET $5 OFF ALL DABS $20+ & $10 OFF DABS $60+ & $1 JOINT (LIMIT 1)"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "debit_cards",
+        "atm",
+        "licensed",
+        "cash",
+        "recreational"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 46,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T21:55:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T21:55:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T21:55:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T21:55:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T21:55:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T21:55:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T21:55:00.000Z"
+        }
+      },
+      "starRating": 4.471014492753623,
+      "tagline": "4/20 - 5 YEAR ANNIVERSARY",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97221",
+      "distanceToUser": 3.926400930910475,
+      "locations": [{ "lat": 45.4868477, "lon": -122.7423314 }]
+    },
+    {
+      "name": "Today's Herbal Choice - Barbur",
+      "id": 300719,
+      "address1": "9220 SW Barbur Blvd Ste 107",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/3bszVY1rTA2G9FkSciMi_IMG_2479.jpg",
+      "deals": [
+        {
+          "dealId": 2018213,
+          "details": "20% OFF STOREWIDE FOR OMMP CARDHOLDERS! (excluding Green Leaf Specials/other special sales) \n&\nRECREATION CUSTOMERS TAKE 20% OFF EDIBLES! (excluding Green Leaf Specials/other special sales)",
+          "endDate": "2021-05-22T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/3g2P4PbeRraAqMvNdrHb_munchies.png",
+          "startDate": "2020-06-15T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "MEDICAL / MUNCHIE MONDAY"
+        },
+        {
+          "dealId": 2018824,
+          "details": "HUSH shatter just $10/g!\nDisco Dabs Shatter for just $10/g!\nEmerald Extracts High-CBD dabs just $7/g!\nLight Live Resin just $12/g!\nHush Live Resin just $12.50/g!\nCartridges starting at just $16.66 a gram!\nQuality Flower starting at just $50/oz \n$4.00 CRUMB 50mg BROWNIE BITES\n$4.10 HUSH 50MG Gummies\n$4.10 Stone Age Gummies\n$5 SDK 50mg Chocolate Chip Cookies\n$2 half-gram prerolls\nAND MUCH MORE!",
+          "endDate": "2023-05-07T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/uYYBWXgTnCj1bth69h8Q_smalllogoforwhitebackground.png",
+          "startDate": "2020-06-14T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "Green Leaf Specials!"
+        },
+        {
+          "dealId": 2034897,
+          "details": "Sunday Funday : Play Plinko and win 15%, 20%, or 25% OFF your entire purchase (Excludes GREEN LEAF SPECIALS)\n25% OFF Lunchbox Alchemy\nNEW SUNDAY HOURS: 10am - 8pm\n\nDiscounts do not apply on Green Leaf Specials or Sale items\n",
+          "endDate": "2021-12-01T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/ZMQrJ06URaGyYukhxXXQ_prize wheel.jpeg",
+          "startDate": "2020-06-14T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "SUNDAY FUNDAY"
+        },
+        {
+          "dealId": 2018227,
+          "details": "20% OFF all regularly priced concentrates, cartridges, extracts and dab accessories! \n30% OFF SELECTED  STRAINS FLOWER \n30% OFF HIGHER CULTURES EXTRACTS\n40% OFF WHITE LABEL EXTRACTS!\nVETERANS ALWAYS STACK THEIR 10% DISCOUNT!\n\n***ALL SALES EXCLUDE GREEN LEAF SPECIALS AND ALREADY ON SALE ITEMS***",
+          "endDate": "2021-10-29T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/concentrates2.png",
+          "startDate": "2020-10-10T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "Extract and Shatter-Day Saturday "
+        },
+        {
+          "dealId": 2107388,
+          "details": "30% OFF FLOWER ALL DAY!\n20% OFF STOREWIDE ALL DAY!\n\n\n\n(Discounts exclude Green Leaf Specials/Other Sales unless otherwise noted. Veterans always stack an additional 10% off)\n",
+          "endDate": "2021-07-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2020-06-19T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "THC FRIDAY! "
+        },
+        {
+          "dealId": 2018225,
+          "details": "Come by and test your hand at our PLINKO board! Win 15, 20, or 25% OFF your purchase! Veterans always add an extra 10% off! Everyone is a winner!\n\nSelected HALO Brand products 25% off:\n25% off Mojave & Exhale 1g Cartridges\n25% off HUSH Live Resin\n25% off HUSH Sizzurp Tincture\n25% off HUSH Gummies",
+          "endDate": "2021-08-28T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/eENZaChYSF6oDG7GD7Ds_thrifty-piggy-bank.jpg",
+          "startDate": "2020-06-18T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "THRIFTY THURSDAY PLINKO & HALO Thursday"
+        },
+        {
+          "dealId": 2018216,
+          "details": "WEED WEDNESDAY: Buy an eighth or more of selected strains on Wednesdays, and get up to 30% OFF!!! All flower is 20% off with purchase of 3.5g or more!!\n\nWYLD WEDNESDAY: 25% off Wyld THC/Cannabis Gummies, 25% off Wyld Hemp CBD Gummies!",
+          "endDate": "2022-06-12T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2020-06-17T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "WEED WEDNESDAY! & WYLD WEDNESDAY!"
+        },
+        {
+          "dealId": 2034349,
+          "details": "25% OFF MANAGER’S PICKS:\n+\n20% OFF Buddies\n+\nSelected .5g joints just $1.50/ea \n+\n30% OFF GOLDEN PRODUCTS!\n\n($1.50 joints limit 6 per customer. Veterans always stack an additional 10% off)",
+          "endDate": "2022-05-25T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/ElcoDnWQQ6Z5cf8Ct7GK_large.jpg",
+          "startDate": "2020-06-16T07:00:00+00:00",
+          "storeId": 300719,
+          "title": "TOP PICK TUESDAY - Manager's Favorites 25% off! & GOLDEN 30% off & Buddies 20% off!"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "debit_cards",
+        "atm",
+        "licensed",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 75,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        }
+      },
+      "starRating": 4.52,
+      "tagline": "$50/oz quality bud!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97219",
+      "distanceToUser": 4.218425385028296,
+      "locations": [{ "lat": 45.4586899, "lon": -122.7088734 }]
+    },
+    {
+      "name": "Kush Cart",
+      "id": 300674,
+      "address1": "",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/cyGaoug5TkYTtzxQ7YQ8_CarOnBridge%201.jpg",
+      "deals": [
+        {
+          "dealId": 2173389,
+          "details": "Our 420 Early Bird Specials starts 4/16-4/20! Get up to 40 percent off storewide. The early bird gets the 🌲! The daily special will automatically be deducted at checkout. Additional discounts cannot be applied with the Early Bird Specials. Loyalty points are eligible.",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2F1rDZxfB3QWEQx7mMyDk0_Kush-Cart-Early-Bird-Banner-(1).jpg",
+          "startDate": "2021-04-16T07:00:00+00:00",
+          "storeId": 300674,
+          "title": "420 Early Bird Special"
+        },
+        {
+          "dealId": 2033608,
+          "details": "We want to give back to those who need this wonderful plant most, and work with you to find your desired result. Through the end of the year we are offering OMMP patients 15% off storewide. \n\nUse coupon code Feeltheheals15 to redeem at checkout.",
+          "endDate": "2020-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/edibles2.png",
+          "startDate": "2018-09-23T07:00:00+00:00",
+          "storeId": 300674,
+          "title": "15% off for OMMP patients"
+        },
+        {
+          "dealId": 2079665,
+          "details": "Check out our \"Sales\" tag at kushcartpdx.com for dropped prices. We are always rotating our selection of sale items each week so check periodically!",
+          "endDate": "2020-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2019-08-01T07:00:00+00:00",
+          "storeId": 300674,
+          "title": "Weekly Deals are going on EVERYDAY!"
+        },
+        {
+          "dealId": 2031489,
+          "details": "We are excited to announce that we are using CanPay to offer debit payment for you!  CanPay is safe, using only the latest technology to keep your information secure.  To download the app please go to www.canpayapp.com. Be sure to have your checking account# and routing# handy. This process can take 1 to 24 hours to link with your account so keep that in mind when using CanPay for the first time. (How to get Started) \n\nAfter creating an account, select \"e-transfer\" at checkout to pay with CanPay instead of cash. When we bring your order simply login to the Canpay app for a generated a QR code which our drivers will scan at the door. And that's it! No more dealing with cash.\nNote: QR codes expire after 30 minutes.",
+          "endDate": "2020-01-01T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/ZGqs0mqST16ZU2jzOO1q_JPG Format CanPay Logo.jpg",
+          "startDate": "2018-10-26T07:00:00+00:00",
+          "storeId": 300674,
+          "title": "Attention! Anybody who wishes to use a debit card/checking account for payment please read the following."
+        }
+      ],
+      "flags": [
+        "debit_cards",
+        "licensed",
+        "cash",
+        "ada",
+        "delivery",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 60,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        }
+      },
+      "starRating": 4.9222222222222225,
+      "tagline": "Free Delivery in PDX!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97206",
+      "distanceToUser": null,
+      "locations": [
+        { "lat": 45.48563720000001, "lon": -122.5946255 },
+        { "lat": 45.52254, "lon": -122.5294 },
+        { "lat": 45.5171, "lon": -122.6772 },
+        { "lat": 45.4725, "lon": -122.6159 },
+        { "lat": 45.5771, "lon": -122.697 },
+        { "lat": 45.4654, "lon": -122.6867 },
+        { "lat": 45.555, "lon": -122.633 },
+        { "lat": 45.4859, "lon": -122.5378 }
+      ]
+    },
+    {
+      "name": "Serra Downtown",
+      "id": 160650,
+      "address1": "220 SW 1st Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://images.leafly.com/menu/8chkCDggTl6gNLL4av4P_Screen-Shot-2020-11-02-at-10.18.35-AM.png",
+      "deals": [
+        {
+          "dealId": 2173191,
+          "details": "We are still closed, but you can head over to our Belmont Location for...\n\nApril 17-20 | 30% Off Storewide\n \nApril 17-19 | 40% off Premium Products\n$10 1/8th Grown Rogue\n$10 Wyld Edibles\n40% off Pruft Cultivar Pre-Rolls and .5g Cartridges\n50% off White Label Extracts\n \nApril 20 Doorbusters\n$30 ½ oz - Grown Rogue\n$2 .5g Pruf Pre-Roll\n$12 .5g Pruf Cultivar Carts\n$5 Disco Dabs\n50% off White Label Extracts\n$10 Wyld and Much More!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FZmoyGj6Tn7pPIGAmlIqg_image001.jpg",
+          "startDate": "2021-04-17T07:00:00+00:00",
+          "storeId": 160650,
+          "title": "4 Days of 420 | 30% - 40% off Storewide"
+        },
+        {
+          "dealId": 2035318,
+          "details": "Choose any 3 Pruf Cultivar 0.5g pre-rolls for $12* or any 3 1g pre-rolls for $18*",
+          "endDate": "2031-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2021-03-08T08:00:00+00:00",
+          "storeId": 160650,
+          "title": "Ongoing Deal: Pre-Roll 3-Pack Special"
+        },
+        {
+          "dealId": 2129028,
+          "details": "For our most distinguished customers Age 65+ receive 10% off their purchase! Keep up the good work.",
+          "endDate": "2031-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": "2020-11-19T08:00:00+00:00",
+          "storeId": 160650,
+          "title": "10% Distinguished Guest Discount"
+        },
+        {
+          "dealId": 2129029,
+          "details": "We award Veteran's and active military personnel with 10% off their purchase, everyday!",
+          "endDate": "2030-11-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2020-11-19T08:00:00+00:00",
+          "storeId": 160650,
+          "title": "10% Military Discount"
+        }
+      ],
+      "flags": [
+        "ada",
+        "storefront",
+        "atm",
+        "veteran_discount",
+        "cash",
+        "recreational",
+        "licensed"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 107,
+      "schedule": null,
+      "starRating": 4.5046728971962615,
+      "tagline": "Feel all the Feelings",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97204",
+      "distanceToUser": 0.4874197353243225,
+      "locations": [{ "lat": 45.5206215, "lon": -122.6718191 }]
+    },
+    {
+      "name": "Truly Pure",
+      "id": 301034,
+      "address1": "1006 SE Grand Ave Ste 104",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/Q9f2kTXHToezdboK1VwS_ls.jpg",
+      "deals": [
+        {
+          "dealId": 2105599,
+          "details": "5 x 1g Carts for $100!!!\n2x 1g for $60!!!\n\n5x .5g for $65!!\n2x .5g for $34!!\n\nDeal of the Century!!!!",
+          "endDate": "2020-04-22T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/lxOjpNITVaxxNRnp9XYe_truly-pure-vape-blue-magoo-2-1-1024x1024.jpg",
+          "startDate": "2020-02-09T08:00:00+00:00",
+          "storeId": 301034,
+          "title": "Truly Pure Cartridges 5x-1g Carts for $100!!!"
+        },
+        {
+          "dealId": 2080599,
+          "details": "That's right, We lowered our prices so you can get that amazing deal, EVERYDAY! Some of the best products and prices in the STATE! Come say HIGH!!",
+          "endDate": "2021-12-02T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/9DmWlJIETFuULAjtDk1P_images 2.jpg",
+          "startDate": "2019-08-23T07:00:00+00:00",
+          "storeId": 301034,
+          "title": "NEW LOWER PRICES!!!"
+        },
+        {
+          "dealId": 2073963,
+          "details": "Tax is ALWAYS Included in our Prices!!!",
+          "endDate": "2021-09-01T06:59:59+00:00",
+          "imageUrl": "",
+          "startDate": "2019-07-11T07:00:00+00:00",
+          "storeId": 301034,
+          "title": "*****Tax Included In all Prices!!!"
+        },
+        {
+          "dealId": 2089944,
+          "details": "Come Check out our amazing selection and fully stocked shelves!!",
+          "endDate": "2021-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2019-11-03T07:00:00+00:00",
+          "storeId": 301034,
+          "title": "Some of the lowest prices in the State! $20 Bobsled Live Resin and $25 .5g/ $40 1g Carts!  $6 50mg Edibles, $20/$36 Truly Pure Co2 Cartridges!!!"
+        },
+        {
+          "dealId": 2045420,
+          "details": "$25 Top shelf 8ths!\n$20 Mid shelf 8ths!",
+          "endDate": "2019-04-01T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/L3vXLuWwQuOEXwNbohdE_IMG_1225.JPG",
+          "startDate": "2019-01-17T08:00:00+00:00",
+          "storeId": 301034,
+          "title": "Fire Friday!"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "ada",
+        "delivery",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 20,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T12:00:00Z",
+          "close": "1901-01-02T21:00:00.000Z"
+        }
+      },
+      "starRating": 4.916666666666667,
+      "tagline": "****Prices Include Taxes!!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": 0.5243131287486908,
+      "locations": [{ "lat": 45.5155843, "lon": -122.6603517 }]
+    },
+    {
+      "name": "Cannabliss & Co. - Firestation 23",
+      "id": 6317,
+      "address1": "1917 SE 7th Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/cobotOcPSKSlKFMUgiJZ_cann.png",
+      "deals": [
+        {
+          "dealId": 2020967,
+          "details": "Purchase Burk Brother's flower and get 20% off! Top shelf quality strains priced @ $9 gram!",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": null,
+          "storeId": 6317,
+          "title": "20% OFF Burk Brother's"
+        },
+        {
+          "dealId": 2020965,
+          "details": "Every Tuesday we feature our Top Shelf strains at 10% off! *SPECIAL* Top shelf strains also available for $99 oz!",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": null,
+          "storeId": 6317,
+          "title": "*TOP SHELF TUESDAY*"
+        },
+        {
+          "dealId": 2021677,
+          "details": "Mix and match brands and flavors to equate to 5 grams of concentrates and receive 20% off! Cartridges available in 1/2 gram and full gram with several different strains and flavors. Stock up and save!",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/concentrates2.png",
+          "startDate": null,
+          "storeId": 6317,
+          "title": "*20%* off of cartridges with purchase of 5 grams"
+        },
+        {
+          "dealId": 2174142,
+          "details": "420 Deals! Come celebrate the day with us!!!\n\n$2 Full Gram PreRolls (Limit 10 per Customer)* \n\n$7.50 Slurpp 250mg Syrups* \n\n$6 Gram’s of Shatter/Sugarwax* \n\nFREE Staylit Vaporizer Kit w/ 5G Extract Purchase* \n\nFREE T-Shirt w/ ANY Sunlight Ridge Oz Purchase* \n\nFREE Smoking Kit w/ ANY OZ Purchase* \n\nFREE Munchie Snack Pack w/ ANY $60 Purchase* \n\n$7 OFF ANY WYLD Gummies* \n\nEXTRACTS: \n\n20% OFF Resin Ranchers Rosin, Bobsled Extracts & Cloud Cover Extracts \n\nFLOWER: \n\n$25 OFF Sunlight RIdge OZ’s \n\n15% OFF Cloud Cover Flower \n\n10% OFF ALL TOP SHELF FLOWER \n\nMEDIBLES: \n\n$1 Ruby Sugar Singles \n\n$3 Ruby Sugar Packs \n\nTOPICALS & TINCURES: \n\n55% OFF Botanist Tinctures \n\n75% OFF Botanist Balm \n\n20% OFF ALL Topicals \n\n \n\n*= While supplies last! ",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 6317,
+          "title": "420 Deals!!!"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 513,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T21:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T21:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T21:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T21:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T21:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T21:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T21:00:00Z"
+        }
+      },
+      "starRating": 4.555555555555555,
+      "tagline": "$99 Oz's & $40 1/4's!!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": 0.6492837707375154,
+      "locations": [{ "lat": 45.5090582, "lon": -122.6590729 }]
+    },
+    {
+      "name": "Gras Cannabis",
+      "id": 127754,
+      "address1": "621 SE 7th Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/JFCTd6JLTH2d48eSueeW_IMG_1486.jpg",
+      "deals": [
+        {
+          "dealId": 2172973,
+          "details": "Enjoy Cartridges are 20% OFF ALL DAY on 4/20!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2Fzu524W9RBm4iud8z5yUQ_Enjoy-Cart.jpeg",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 127754,
+          "title": "420 Enjoy Cartridges 20% OFF"
+        },
+        {
+          "dealId": 2172972,
+          "details": "This 420, Tasty's Edibles are 40% from April 16th-20th.",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FOpBsjFQRoGavq6SGl1k1_Tastys.jpg",
+          "startDate": "2021-04-16T07:00:00+00:00",
+          "storeId": 127754,
+          "title": "40% OFF Tasty's Edibles"
+        },
+        {
+          "dealId": 2172447,
+          "details": "To celebrate 420 this year, Mr. Moxey's Mints are 30% off from April 14th through April 21st!",
+          "endDate": "2021-04-22T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FGcffsbT66n2lSnAnU0AV_Moxeys-Mints.jpg",
+          "startDate": "2021-04-14T07:00:00+00:00",
+          "storeId": 127754,
+          "title": "30% OFF Moxey's Mints"
+        },
+        {
+          "dealId": 2172974,
+          "details": "Naked Extracts are 20% OFF ALL DAY on 4/20.",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FQCPsXrYR3qTr8Rwa3irg_Naked-Extracts.jpg",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 127754,
+          "title": "420 Naked Extracts Cartridges 20% OFF"
+        },
+        {
+          "dealId": 2172975,
+          "details": "Native Extracts are 20% OFF ALL DAY on 4/20.",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FMc9cUBy7Te2OWnDGK00E_Native-Extracts-(2).jpg",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 127754,
+          "title": "420 Native Extracts 20% OFF"
+        },
+        {
+          "dealId": 2172976,
+          "details": "To celebrate this year, Meraki Gardens are 30% ALL DAY on 4/20.",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FRO7g3zJPTfOhtGEVoEk5_Meraki.jpg",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 127754,
+          "title": "420 Meraki Gardens 30% OFF"
+        },
+        {
+          "dealId": 2172977,
+          "details": "Bobsled Products are 40% OFF ALL DAY on 4/20!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FSxSYWjPMQjCGXOKCccFI_Bobsled.png",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 127754,
+          "title": "420 Bobsled 40% OFF"
+        }
+      ],
+      "flags": [
+        "credit_cards",
+        "recreational",
+        "debit_cards",
+        "veteran_discount",
+        "atm",
+        "ada",
+        "cash",
+        "licensed",
+        "storefront",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 129,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:30:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:30:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:30:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:30:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:30:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:30:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:30:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        }
+      },
+      "starRating": 4.728682170542636,
+      "tagline": "Check our Daily Specials!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": 0.6646013347018781,
+      "locations": [{ "lat": 45.5183928, "lon": -122.6590481 }]
+    },
+    {
+      "name": "Electric Lettuce - Old Town",
+      "id": 2120,
+      "address1": "214 NW Couch Street",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://images.leafly.com/menu/9WTMzu1QvKavuXYj9KpA_6.png",
+      "deals": [
+        {
+          "dealId": 2173210,
+          "details": "April 17-20 | 30% Off Storewide\n \nApril 17-19 | 40% off Premium Products\n$10 1/8th Grown Rogue\n$10 Wyld Edibles\n40% off Pruft Cultivar Pre-Rolls and .5g Cartridges\n50% off White Label Extracts\n \nApril 20 Doorbusters\n$30 ½ oz - Grown Rogue\n$2 .5g Pruf Pre-Roll\n$12 .5g Pruf Cultivar Carts\n$5 Disco Dabs\n50% off White Label Extracts\n$10 Wyld and Much More!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FbUkUpNwiSZYmxqbWG88p_image001.jpg",
+          "startDate": "2021-04-17T07:00:00+00:00",
+          "storeId": 2120,
+          "title": "4 Days of 420 | 30% - 40% off Storewide"
+        },
+        {
+          "dealId": 2130653,
+          "details": "FRIENDS IN HIGH PLACES LOYALTY PROGRAM\nGet rewarded for the things you love. Introducing the new Friends In High Places Loyalty Program, giving you smokin’ deals on grass and goodies while keeping those dollars in your wallet.\n\nYou’ll earn 1 point for every dollar spent, and at 100 points we’ll gift you a $10 credit. Can you dig it?\n\n",
+          "endDate": "2021-12-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2020-12-09T08:00:00+00:00",
+          "storeId": 2120,
+          "title": "Lettuce Loyalty Program"
+        },
+        {
+          "dealId": 2149944,
+          "details": "Monday 10% off Edibles\nTuesday 10% off all Vape\nWednesday 10% off all Topicals & CBD \nThursday 10% off all Tinctures and Bevs\nFriday 10% off all Pre-Rolls\nSaturday 10% off All Dabs\nSunday 10% off ALL flower, 20%-30% off Select Flower",
+          "endDate": "2031-01-01T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FMPIOEefJRCzL4fxRGLhf_a.png",
+          "startDate": "2021-02-24T08:00:00+00:00",
+          "storeId": 2120,
+          "title": "LETTUCE DAILY DEALS!"
+        },
+        {
+          "dealId": 2128979,
+          "details": "For our most distinguished customers Age 65+ receive 10% off their purchase! Keep up the good work.",
+          "endDate": "2031-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": "2020-11-19T08:00:00+00:00",
+          "storeId": 2120,
+          "title": "10% Distinguished Guest Discount"
+        },
+        {
+          "dealId": 2128980,
+          "details": "We award Veteran's and active military personnel with 10% off their purchase, everyday! ",
+          "endDate": "2031-01-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2020-11-19T08:00:00+00:00",
+          "storeId": 2120,
+          "title": "10% Military Discount"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "cash",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 1532,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00.000Z",
+          "close": "1901-01-02T19:00:00.000Z"
+        }
+      },
+      "starRating": 4.84899912967798,
+      "tagline": "20% off Daily Deals",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97209",
+      "distanceToUser": 0.7040511819256107,
+      "locations": [{ "lat": 45.5237048, "lon": -122.6726458 }]
+    },
+    {
+      "name": "Bridge City Collective - Southeast Portland & Delivery",
+      "id": 66253,
+      "address1": "215 SE Grand Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/ALQ52d7hQrywbywEE5Wu_bridge-city-collective---southeast_880x660_f29c.jpg",
+      "deals": [
+        {
+          "dealId": 2173918,
+          "details": "We want your POT(S)!!!\n\nPositive Charge! PDX and Community Warehouse in Partnership with Bridge City Collective SE invite you to our 4/20 Pot Drive!\n\nNow, until 4/20 -  drop-off your new and gently-used pots and pans at BCCSE!\n\nAs an incentive to give back to the community, we want to give you 20% OFF YOUR ORDER!! \n\nlearn more at \npostivechargepdx.org/upcoming-events",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2021-04-17T07:00:00+00:00",
+          "storeId": 66253,
+          "title": "4/20 POT DRIVE"
+        },
+        {
+          "dealId": 2128141,
+          "details": "JOIN exists to support the efforts of individuals and families experiencing homelessness to transition into permanent housing. Our efforts are directed at individuals sleeping outside or in their car in the Portland Metro area. Our service provision is not dependent on age, gender, race, ethnicity, faith, culture, language, sexual identity, specific diagnosis, or identifiable issue.\n\nJOIN is striving to become an anti-racist organization – because we are building toward a future that is inclusive and equitable. \nJOIN is a partner – because we trust people to be the primary agents of change in their own lives. We reflect strengths and walk alongside people on their journey to stability.\nJOIN is centered in relationships – because we believe in community. \nJOIN is creative to conquer complexity – because the complex issues surrounding homelessness requires innovation and flexibility.\nJOIN is ever-evolving, living and organic – because we are all continuously learning and growing.\n\nHelp us dontate warm clothing and camping gear and to earn 15% OFF your purchase! We will be dropping off donations to JOIN PDX - visit https://joinpdx.org/needs/ for a complete list of acceptable items. ",
+          "endDate": "2021-08-01T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FEBU1d25SR4643lzuo9CA_JoinPDX.png",
+          "startDate": "2020-11-07T08:00:00+00:00",
+          "storeId": 66253,
+          "title": "JOIN PDX Love "
+        },
+        {
+          "dealId": 1335072,
+          "details": "Bridge City Collective offers 5% off your total purchase for Teachers, Firemen, Seniors, Students, and if you biked to our locations. Ask about Military/VA Discounts! We also offer discounts for returned plastic pop-tops and childproof exit bags!",
+          "endDate": "3069-04-21T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2020-03-19T07:00:00+00:00",
+          "storeId": 66253,
+          "title": "Discounts!!!"
+        },
+        {
+          "dealId": 2008270,
+          "details": "Monday: 20% off all Carts.\nTuesday: 20% off Edibles.\nWednesday: 20% off Topicals .\n\"Top Shelf\" Thursday: 20% off Top Shelf Flower!\nFriday: 20% off Dabbables.\nSaturday: 20% off CBD product\nSunday: 20% off Tinctures including RSO and Luminous Botanicals.",
+          "endDate": "2021-02-02T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/edibles2.png",
+          "startDate": "2018-01-01T08:00:00+00:00",
+          "storeId": 66253,
+          "title": "BCC Daily Deals"
+        },
+        {
+          "dealId": 2124052,
+          "details": "Daily flower deal that changes daily! Come on through, or call a head and check out what our Budtender's special is for the day. Enjoy $2 off the Gram and $5 off the Eighth!!!",
+          "endDate": "2022-09-05T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2020-09-04T07:00:00+00:00",
+          "storeId": 66253,
+          "title": "Budtender's Special"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "ada",
+        "delivery",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 280,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        }
+      },
+      "starRating": 4.707142857142857,
+      "tagline": "We offer daily deals! ",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": 0.7070254628757141,
+      "locations": [{ "lat": 45.5212229, "lon": -122.6610503 }]
+    },
+    {
+      "name": "Farma",
+      "id": 76940,
+      "address1": "916 SE Hawthorne Blvd ",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://images.leafly.com/menu/reZRDM9PS86B5kFWMj7m_farma-3.jpg",
+      "deals": [
+        {
+          "dealId": 1335833,
+          "details": "If you're 65 or over, you receive a 10% discount.  ",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/309FjQ8lTbqLwPD84x0d_DSC00155.jpg",
+          "startDate": null,
+          "storeId": 76940,
+          "title": "10% Seniors Discount"
+        },
+        {
+          "dealId": 1335834,
+          "details": "Service Members and Veterans receive 10% off",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/dDct5r1Tcun9RiWTjb0g_5f994ee4-58f6-417d-aceb-19f702aeb42e.jpg",
+          "startDate": null,
+          "storeId": 76940,
+          "title": "10% Military Discount"
+        },
+        {
+          "dealId": 1335835,
+          "details": "Bring your bicycle helmet into Farma and magically receive 5% off your entire order.  2 wheels > 4 wheels.",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/Y20UJsOCQ6obA283lFzA_16494837-several-brightly-colored-bicycles-lined-up-along-a-bike-rack.jpg",
+          "startDate": null,
+          "storeId": 76940,
+          "title": "5% off for Bike Commuters!"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "debit_cards",
+        "atm",
+        "licensed",
+        "cash",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 301,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00Z",
+          "close": "1901-01-01T19:00:00Z"
+        }
+      },
+      "starRating": 4.725359911406423,
+      "tagline": "Glorious local produce",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": 0.7117126136083058,
+      "locations": [{ "lat": 45.5120876, "lon": -122.6562628 }]
+    },
+    {
+      "name": "Greenery - Marijuana Delivery Service",
+      "id": 303532,
+      "address1": "",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/KE97Uoh4QZGU6jwQ95SN_GG_Leafly_Hero_Image.jpg",
+      "deals": [
+        {
+          "dealId": 2056532,
+          "details": "Use code 'FIRST15' at checkout.",
+          "endDate": "2029-04-02T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2019-04-01T07:00:00+00:00",
+          "storeId": 303532,
+          "title": "15% off your first order. ORDER ONLINE @ GETGREENERY.COM"
+        },
+        {
+          "dealId": 2056867,
+          "details": "Use code 'OMMP20' Tax is not collected on marijuana sold by a recreational marijuana retailer to a registry identification cardholder or caregiver when the purchase is for medical purposes.",
+          "endDate": "2029-04-02T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2019-04-01T07:00:00+00:00",
+          "storeId": 303532,
+          "title": "OMMP Patients receive 20% off"
+        },
+        {
+          "dealId": 2056533,
+          "details": "Use code 'GREENERY10' at checkout.",
+          "endDate": "2029-04-02T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": "2019-04-01T07:00:00+00:00",
+          "storeId": 303532,
+          "title": "10% off your order everytime."
+        }
+      ],
+      "flags": [
+        "credit_cards",
+        "veteran_discount",
+        "debit_cards",
+        "licensed",
+        "cash",
+        "delivery",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 12,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T20:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T20:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T20:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T20:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T20:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T20:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T20:00:00Z"
+        }
+      },
+      "starRating": 4.972222222222222,
+      "tagline": "Get free weed delivery!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97211",
+      "distanceToUser": null,
+      "locations": [
+        { "lat": 45.55921, "lon": -122.661615 },
+        { "lat": 45.584429, "lon": -122.722418 },
+        { "lat": 45.526359, "lon": -122.692176 },
+        { "lat": 45.478128, "lon": -122.697609 },
+        { "lat": 45.5048109, "lon": -122.6417373 },
+        { "lat": 45.4396199, "lon": -122.6889108 },
+        { "lat": 45.5050545, "lon": -122.6808087 },
+        { "lat": 45.5190307, "lon": -122.7356383 },
+        { "lat": 45.5473104, "lon": -122.7749924 },
+        { "lat": 45.5896494, "lon": -122.7572113 },
+        { "lat": 45.5699123, "lon": -122.689637 },
+        { "lat": 45.5482362, "lon": -122.643295 },
+        { "lat": 45.5398022, "lon": -122.613119 },
+        { "lat": 45.4643176, "lon": -122.649232 }
+      ]
+    },
+    {
+      "name": "Diem Cannabis - Delivery",
+      "id": 300109,
+      "address1": "",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://images.leafly.com/menu/ZoamgTRYQzCBePWissIC_portland-hero.jpg",
+      "deals": [
+        {
+          "dealId": 2174401,
+          "details": "To enjoy the savings, visit our live menu at:\nhellodiem(dot)com/portland \n\nSave up to 25–40% OFF Diem Farms products and the rest of your favorite items from the hottest brands!\n\n~ Diem Farms Pre-Roll Specials ~\n2-Pack 1/2g ea. - Mix and match any* (3) Pre-Roll 2-Packs for just $6.00.\nPure Premium 1g - Special price of only $4.20 total each.\n\nAll Flower is 25% OFF or more!\nAll Edibles are 20%+ OFF or more!",
+          "endDate": "2021-04-26T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FmAwMqfRTGqqwkJjk3Wyf_Screen-Shot-2021-04-16-at-4.08.51-AM.png",
+          "startDate": "2021-04-20T07:00:00+00:00",
+          "storeId": 300109,
+          "title": "💚 Happy 420! Save up to 40% off at Diem!"
+        },
+        {
+          "dealId": 2117378,
+          "details": "Shop at hellodiem.com/portland where all JOINTS, DIEM SWAG, & ACCESSORIES are 15% OFF! Have some delivered to your front door! ",
+          "endDate": "2020-12-15T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FyPPmpkQaSmqKIumw5vmz_Diem%20Pre-roll%20Boxes.jpg",
+          "startDate": "2020-12-14T08:00:00+00:00",
+          "storeId": 300109,
+          "title": "MONDAY ~ 15% OFF PRE-ROLLS & ACCESSORIES"
+        },
+        {
+          "dealId": 2117379,
+          "details": "Shop at hellodiem.com/portland where all FLOWER and TOPICALS are 15% OFF!  Have some delivered to your front door! ",
+          "endDate": "2020-12-16T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2Fw3uX21HStOTwuJxx9o6n_Diem%20Pre-roll%20Boxes.jpg",
+          "startDate": "2020-12-15T08:00:00+00:00",
+          "storeId": 300109,
+          "title": "TUESDAY ~ 15% OFF FLOWER & TOPICALS"
+        },
+        {
+          "dealId": 2117381,
+          "details": "Shop at hellodiem.com/portland where all PRE-ROLLS & TINCTURES are 15% OFF!  Have some delivered to your front door! ",
+          "endDate": "2020-11-28T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FxfXB9DSUTPWU9A80K7Rg_Diem%20Pre-roll%20Boxes.jpg",
+          "startDate": "2020-11-26T08:00:00+00:00",
+          "storeId": 300109,
+          "title": "THURSDAY ~ 15% OFF PRE-ROLLS & TINCTURES!"
+        },
+        {
+          "dealId": 2117382,
+          "details": "Shop at hellodiem.com/portland where all FLOWER, DIEM SWAG, & ACCESSORIES are 15% OFF! Have some delivered to your front door! ",
+          "endDate": "2020-11-29T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FfJFPKxJGRL2GzPptRypu_Diem%20Pre-roll%20Boxes.jpg",
+          "startDate": "2020-11-27T08:00:00+00:00",
+          "storeId": 300109,
+          "title": "FRIDAY ~ 15% OFF FLOWER + ACCESSORIES!"
+        },
+        {
+          "dealId": 2117380,
+          "details": "Shop at hellodiem.com/portland where all VAPES, DABS, & EDIBLES are 15% OFF! Have some delivered to your front door! ",
+          "endDate": "2020-11-30T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FrAdq1IzcS6ySWWrjdSoc_Diem%20Pre-roll%20Boxes.jpg",
+          "startDate": "2020-11-28T08:00:00+00:00",
+          "storeId": 300109,
+          "title": "SATURDAY ~ 15% OFF VAPES + DABS + EDIBLES!"
+        },
+        {
+          "dealId": 2117377,
+          "details": "Shop at hellodiem.com/portland where all products are 10% OFF! Have some delivered to your front door! ",
+          "endDate": "2020-12-01T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2F2RrdDdHHQ2ugqt7yVrkF_Diem%20Pre-roll%20Boxes.jpg",
+          "startDate": "2020-11-29T08:00:00+00:00",
+          "storeId": 300109,
+          "title": "SUNDAY ~ 10% OFF ALL PRODUCTS!"
+        },
+        {
+          "dealId": 2117376,
+          "details": "Shop at hellodiem.com/portland where all VAPES, DABS, & EDIBLES are 15% OFF!  Have some delivered to your front door!",
+          "endDate": "2020-12-04T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FDawGocNdQT6G6gtPbnE1_Diem%20Pre-roll%20Boxes.jpg",
+          "startDate": "2020-12-02T08:00:00+00:00",
+          "storeId": 300109,
+          "title": "WEDNESDAY ~ 15% OFF VAPES + DABS + EDIBLES!"
+        }
+      ],
+      "flags": [
+        "credit_cards",
+        "veteran_discount",
+        "debit_cards",
+        "licensed",
+        "cash",
+        "ada",
+        "delivery",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 48,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T19:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T17:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T19:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T19:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T11:00:00.000Z",
+          "close": "1901-01-02T19:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T12:00:00.000Z",
+          "close": "1901-01-02T19:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T12:00:00.000Z",
+          "close": "1901-01-02T19:00:00Z"
+        }
+      },
+      "starRating": 4.708333333333333,
+      "tagline": "15% OFF FLOWER & SWAG! ",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": null,
+      "locations": [
+        { "lat": 45.5194324, "lon": -122.6364596 },
+        { "lat": 45.51457, "lon": -122.687384 },
+        { "lat": 45.516792, "lon": -122.602014 },
+        { "lat": 45.555476, "lon": -122.620246 }
+      ]
+    },
+    {
+      "name": "ZION",
+      "id": 134346,
+      "address1": "2331 SW 6th Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/RIhieLx6RKW4IHApMHoU_IMG_8921+(1).JPG",
+      "deals": [
+        {
+          "dealId": 2096761,
+          "details": "Choose 3 Full-Gram(1g) Pre-Rolled Joints or Hemp Blunts for $20 tax included!\nOptions include Meraki Gardens, TKO Reserve and Iconic Blunts!",
+          "endDate": "2022-12-02T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2019-12-01T08:00:00+00:00",
+          "storeId": 134346,
+          "title": "3 for $20 1g Pre-Rolls and Hemp Blunts! TAX INCLUDED!"
+        },
+        {
+          "dealId": 1332786,
+          "details": "Any person with a current Medical/hospital badge, Military ID/ Veteran ID, or is over the age of 55, will receive a 10% discount off their orders of flower or pre-rolls! ",
+          "endDate": "2024-04-21T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2015-01-01T08:00:00+00:00",
+          "storeId": 134346,
+          "title": "Medical, Veteran, & Senior Discounts"
+        },
+        {
+          "dealId": 2177937,
+          "details": "Select any Five(5) Grams of Altered Alchemy Cured Resin Sauce for only $90 out the door!\n*Only Available on Altered Alchemy*",
+          "endDate": "2021-09-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/concentrates2.png",
+          "startDate": "2021-04-27T07:00:00+00:00",
+          "storeId": 134346,
+          "title": "5 Grams of Dabs for $90! Tax Included!"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "cash",
+        "ada",
+        "delivery",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 122,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        }
+      },
+      "starRating": 4.7076502732240435,
+      "tagline": "Pick Up Now Available",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97201",
+      "distanceToUser": 0.8439340523041299,
+      "locations": [{ "lat": 45.5060977, "lon": -122.6845588 }]
+    },
+    {
+      "name": "Brothers Cannabis - SE Morrison",
+      "id": 301188,
+      "address1": "1328 SE Morrison St",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://images.leafly.com/menu/0R1DGOTxJARAssFM9WgY_bros.jpg",
+      "deals": [
+        {
+          "dealId": 2105970,
+          "details": "Join our loyalty program 15% OFF for new customers any time we are open!!",
+          "endDate": "2023-07-01T06:59:59+00:00",
+          "imageUrl": "",
+          "startDate": "2020-02-12T08:00:00+00:00",
+          "storeId": 301188,
+          "title": "Join our loyalty program 15% OFF for new customers any time we are open!!"
+        },
+        {
+          "dealId": 2044588,
+          "details": "Purchase 5 pre-rolled joints and get the 6th joint FREE !!!",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2018-12-28T08:00:00+00:00",
+          "storeId": 301188,
+          "title": "Joint Specials"
+        },
+        {
+          "dealId": 2043240,
+          "details": "15% off all topicals and tinctures (tax included with price)",
+          "endDate": null,
+          "imageUrl": "",
+          "startDate": "2018-12-17T08:00:00+00:00",
+          "storeId": 301188,
+          "title": "Topical Thursday"
+        },
+        {
+          "dealId": 2043235,
+          "details": "10% off all edibles (tax included with price)",
+          "endDate": null,
+          "imageUrl": "",
+          "startDate": "2018-12-17T08:00:00+00:00",
+          "storeId": 301188,
+          "title": "Monday the incrEdible"
+        },
+        {
+          "dealId": 2077028,
+          "details": "10% off all concentrates (tax included with price)!",
+          "endDate": null,
+          "imageUrl": "",
+          "startDate": "2019-08-03T07:00:00+00:00",
+          "storeId": 301188,
+          "title": "Shatterday!"
+        },
+        {
+          "dealId": 2043236,
+          "details": "10% off top shelf flower (tax included with price)",
+          "endDate": null,
+          "imageUrl": "",
+          "startDate": "2018-12-17T08:00:00+00:00",
+          "storeId": 301188,
+          "title": "Topshelf Tuesdays"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "debit_cards",
+        "atm",
+        "licensed",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 57,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:30:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:30:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:30:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:30:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:30:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T21:30:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-02T19:00:00.000Z"
+        }
+      },
+      "starRating": 4.894736842105263,
+      "tagline": "Shatter 10% Off!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": 0.9353091352712622,
+      "locations": [{ "lat": 45.517027, "lon": -122.651988 }]
+    },
+    {
+      "name": "Broadway Cannabis Market",
+      "id": 305983,
+      "address1": "427 NW Broadway",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/UQeydalvSrq0BG0fg4Qw_Compressed%20wide%20angle.png",
+      "deals": [
+        {
+          "dealId": 2079590,
+          "details": "Show us that you left a review on any of these platforms and get either a $1.00 pre-roll or $2.00 50mg cookie. Limit 4 per customer\nGoogle, Leafly, Facebook",
+          "endDate": "2022-04-20T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2021-04-06T07:00:00+00:00",
+          "storeId": 305983,
+          "title": "1$ pre-roll or $2 cookie"
+        },
+        {
+          "dealId": 2082037,
+          "details": "*All prices include tax!",
+          "endDate": "2022-04-20T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2021-04-06T07:00:00+00:00",
+          "storeId": 305983,
+          "title": "*All prices include tax!"
+        },
+        {
+          "dealId": 2079588,
+          "details": "Storewide discounts on all products",
+          "endDate": "2022-04-20T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/edibles2.png",
+          "startDate": "2021-04-06T07:00:00+00:00",
+          "storeId": 305983,
+          "title": "Happy Hour - Daily: 6p-7pm"
+        },
+        {
+          "dealId": 2079589,
+          "details": "Storewide discounts on all products",
+          "endDate": "2022-04-20T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": "2021-04-06T07:00:00+00:00",
+          "storeId": 305983,
+          "title": "Early Bird - Daily 8a-9a"
+        },
+        {
+          "dealId": 2076191,
+          "details": "5% Discount",
+          "endDate": "2022-04-20T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls1.png",
+          "startDate": "2021-04-06T07:00:00+00:00",
+          "storeId": 305983,
+          "title": "Student Discount"
+        },
+        {
+          "dealId": 2076192,
+          "details": "5% Discount",
+          "endDate": "2022-04-20T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2021-04-06T07:00:00+00:00",
+          "storeId": 305983,
+          "title": "Senior Discount"
+        },
+        {
+          "dealId": 2076193,
+          "details": "5% Discount",
+          "endDate": "2022-04-20T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/edibles1.png",
+          "startDate": "2021-04-06T07:00:00+00:00",
+          "storeId": 305983,
+          "title": "Military Discount"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "ada",
+        "recreational"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 540,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        }
+      },
+      "starRating": 4.871604938271605,
+      "tagline": "Premium without the price",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97209",
+      "distanceToUser": 0.9461193446360828,
+      "locations": [{ "lat": 45.52635009999999, "lon": -122.6779195 }]
+    },
+    {
+      "name": "MediGreen Collectives",
+      "id": 124266,
+      "address1": "729 SE Powell Blvd",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/GQz6JhfpQtmAszvV1ukV_17662884_778717185630573_7342443654201475072_a.jpg",
+      "deals": [
+        {
+          "dealId": 2177974,
+          "details": "Selected Strains Price Drop!! GMO Cookies, Alien OG, King Bubba for $170 an Ounce (Post Tax Price)",
+          "endDate": "2021-04-29T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FNiONPIYQtGE6DtDUHnjM_exotic-blooms-wedding-cake-914x1024.jpg",
+          "startDate": "2021-04-27T07:00:00+00:00",
+          "storeId": 124266,
+          "title": "(Indoor) GMO Cookies THC: 34.5% for $170 an Ounce "
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 1006,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        }
+      },
+      "starRating": 4.7664015904572565,
+      "tagline": "",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97202",
+      "distanceToUser": 1.0045608745441883,
+      "locations": [{ "lat": 45.5019016, "lon": -122.6584808 }]
+    },
+    {
+      "name": "Virtue Supply Company",
+      "id": 190763,
+      "address1": "510 NW 11th Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/njhLL3NQ5SC8dsqDxQEL_Virtue%20Logo.jpeg",
+      "deals": [
+        {
+          "dealId": 2082548,
+          "details": "$6 off ALL Cartridges and Concentrates that are ABOVE $20 every Saturday and Sunday!\n",
+          "endDate": "2030-01-02T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FzYCwJNhBS8W0hVWr0NVF_images.jpeg",
+          "startDate": "2020-09-19T07:00:00+00:00",
+          "storeId": 190763,
+          "title": "SHATTERDAY!"
+        },
+        {
+          "dealId": 2124923,
+          "details": "receive 15% off ALL Top Shelf flower!\n\n\ndoes not combine with other discounts.",
+          "endDate": "2030-01-02T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower2.png",
+          "startDate": "2020-09-22T07:00:00+00:00",
+          "storeId": 190763,
+          "title": "TOP SHELF TUESDAY"
+        },
+        {
+          "dealId": 2064804,
+          "details": "10% off Tinctures and Topical Medicine!",
+          "endDate": null,
+          "imageUrl": "",
+          "startDate": null,
+          "storeId": 190763,
+          "title": "Wellness Wednesday"
+        },
+        {
+          "dealId": 2124924,
+          "details": "ALL edibles are 10% off every Monday!\ncome get your tasty treats :)",
+          "endDate": "2030-01-02T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FxIdw7V9HQ5e2U796apH3_brownie.jpeg",
+          "startDate": "2020-09-21T07:00:00+00:00",
+          "storeId": 190763,
+          "title": "MUNCHIE MONDAY"
+        },
+        {
+          "dealId": 2061799,
+          "details": "Swing by for 10% off cannabis infused beverages every Thursday!",
+          "endDate": "2030-01-02T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FejX82IVUQeGwtN1YlBjA_thirsty.jpeg",
+          "startDate": "2020-09-24T07:00:00+00:00",
+          "storeId": 190763,
+          "title": "THIRSTY THURSTDAYS"
+        },
+        {
+          "dealId": 2019920,
+          "details": "Featured Farm Fridays! 10% off flowers from featured grower",
+          "endDate": null,
+          "imageUrl": "",
+          "startDate": null,
+          "storeId": 190763,
+          "title": "FEATURED FRIDAY"
+        },
+        {
+          "dealId": 1334890,
+          "details": "All veterans receive 10% off their purchase at Virtue Supply Company.",
+          "endDate": null,
+          "imageUrl": "",
+          "startDate": null,
+          "storeId": 190763,
+          "title": "Veterans 10% discount"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "ada",
+        "delivery",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 88,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        }
+      },
+      "starRating": 4.840909090909091,
+      "tagline": "Click to Order Online!",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97209",
+      "distanceToUser": 1.0596836047894178,
+      "locations": [{ "lat": 45.5268119, "lon": -122.6819117 }]
+    },
+    {
+      "name": "Oregrown - PDX",
+      "id": 307378,
+      "address1": "111 NE 12th Ave",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/QlAotFSvuPa3viIoiFIg_Oregrown_Portland_opening_087.jpg",
+      "deals": [
+        {
+          "dealId": 2127555,
+          "details": "40% OFF WYLD EDIBLES\n30% OFF STAY LIFTED DABBABLES\n20% OFF OREGROWN 510+ VAPE CARTS",
+          "endDate": "2021-03-11T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FCbiwBIl6RAoaLNf9URVp_10DAYSOFDEALS.JPG",
+          "startDate": "2021-03-01T08:00:00+00:00",
+          "storeId": 307378,
+          "title": "10 DAYS OF DEALS!"
+        },
+        {
+          "dealId": 2127554,
+          "details": "EVERY SUNDAY, 20% OFF EXCLUSIVE FLOWER STRAINS!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2Fp6C9oUMFRO6VEGXUBBXb_SELF-CARE-SUNDAY.jpg",
+          "startDate": "2020-10-30T07:00:00+00:00",
+          "storeId": 307378,
+          "title": "SELF CARE SUNDAY!"
+        },
+        {
+          "dealId": 2110090,
+          "details": "EVERY SATURDAY, 10% OFF SOLVENTLESS PRODUCTS! THIS INCLUDES DABS, CARTRIDGES & EDIBLES!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FZYCeWVORye4XWb5hQlR9_SOLVENTLESS-SATURDAY.jpg",
+          "startDate": "2020-03-14T07:00:00+00:00",
+          "storeId": 307378,
+          "title": "SOLVENTLESS SATURDAY!"
+        },
+        {
+          "dealId": 2108920,
+          "details": "EVERY TUESDAY, 15% OFF ALL EDIBLES!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2Ffmfp4KhJTlKF1ZJej0mU_TASTY-TUESDAY.jpg",
+          "startDate": "2020-03-03T08:00:00+00:00",
+          "storeId": 307378,
+          "title": "TASTY TUESDAY!"
+        },
+        {
+          "dealId": 2108921,
+          "details": "EVERY WEDNESDAY, 15% OFF ALL DABBABLES!\n(*DOES NOT APPLY TO SOLVENTLESS CONCENTRATES)",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FMRLzfUVdR3iIHQ8nNwcA_DAB-WEDNESDAY.jpg",
+          "startDate": "2020-03-04T08:00:00+00:00",
+          "storeId": 307378,
+          "title": "DAB WEDNESDAY!"
+        },
+        {
+          "dealId": 2149464,
+          "details": "EVERY THURSDAY, 30% OFF ALL HEMP, TOPICALS, & TINCTURES!",
+          "endDate": "2022-01-01T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2F4AA3Ds1MT8K9YUXubB0N_THERAPEUTIC-THURSDAY.jpg",
+          "startDate": "2021-02-23T08:00:00+00:00",
+          "storeId": 307378,
+          "title": "THERAPEUTIC THURSDAY!"
+        },
+        {
+          "dealId": 2110089,
+          "details": "EVERY FRIDAY, 20% OFF ALL PRE-ROLLS!\n",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2F6RBFGqunQWm7LRILefLN_OLD-FASHION-FRIDAY.jpg",
+          "startDate": "2020-03-13T07:00:00+00:00",
+          "storeId": 307378,
+          "title": "OLD FASHIONED FRIDAY!"
+        },
+        {
+          "dealId": 2108922,
+          "details": "EVERY MONDAY, 15% OFF ALL VAPES!",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FXxl6pfHbR9afxs1NZZDR_VAPE-MONDAY.jpg",
+          "startDate": "2020-03-09T07:00:00+00:00",
+          "storeId": 307378,
+          "title": "VAPE MONDAY!"
+        },
+        {
+          "dealId": 2110144,
+          "details": "In response to the Centers for Disease Control and Prevention's instructions relating to the Coronavirus Disease (COVID-19), for the senior community to be extra cautious and to limit exposure to others in public -- until further notice -- Oregrown will proudly be offering Free Delivery as well as a 5% discount to Customers and Patients above the age of 60 who place delivery orders online through our website at Oregrown.com.",
+          "endDate": "2021-04-21T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary%2Fphotos%2FX8Ywhoi5Qw2FPGtfEiIN_Oregrown_Portland_opening_087.jpg",
+          "startDate": "2020-03-14T07:00:00+00:00",
+          "storeId": 307378,
+          "title": "Announcing Free Senior Delivery 🚙"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "credit_cards",
+        "veteran_discount",
+        "debit_cards",
+        "licensed",
+        "cash",
+        "ada",
+        "delivery",
+        "recreational"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 37,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00Z",
+          "close": "1901-01-02T22:00:00.000Z"
+        }
+      },
+      "starRating": 4.504504504504505,
+      "tagline": "Stay Lifted",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97232",
+      "distanceToUser": 1.0813066632526898,
+      "locations": [{ "lat": 45.5237889, "lon": -122.6538538 }]
+    },
+    {
+      "name": "Oregon's Finest - MLK",
+      "id": 139916,
+      "address1": "736 NE Martin Luther King Jr. Blvd",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/KYsjoVqwQk2KAL0k0UTy_oregonsfinest_04192018.jpg",
+      "deals": [
+        {
+          "dealId": 2110680,
+          "details": "Social distancing is important!! In an effort to keep our staff and customers safe, we are offering FREE delivery and pickup at both locations!",
+          "endDate": "2020-04-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2020-03-18T07:00:00+00:00",
+          "storeId": 139916,
+          "title": "FREE DELIVERY or PICKUP!"
+        },
+        {
+          "dealId": 2101524,
+          "details": "Buy 4 *different* quarters from the flower wall, get 20% off! (OMMP get an extra 5% off!) Get a variety from your favorite farms AND get a sweet discount.",
+          "endDate": "2020-03-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2020-01-17T08:00:00+00:00",
+          "storeId": 139916,
+          "title": "4 Quarter Friday!!"
+        },
+        {
+          "dealId": 2100125,
+          "details": "Oregon's Finest X Dirty Arm Farm OG Kush Live Resin grams are now 3 for $24!!",
+          "endDate": "2020-03-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/concentrates2.png",
+          "startDate": "2020-01-02T08:00:00+00:00",
+          "storeId": 139916,
+          "title": "Oregon's Finest OG Kush"
+        },
+        {
+          "dealId": 2101602,
+          "details": "All Dirty Arm Farm Restorative tinctures 30% off! Now only $54 out the door!",
+          "endDate": "2020-03-01T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2020-01-13T08:00:00+00:00",
+          "storeId": 139916,
+          "title": "Dirty Arm Farm Restorative Tinctures 30% Off!"
+        }
+      ],
+      "flags": [
+        "recreational",
+        "storefront",
+        "licensed",
+        "veteran_discount",
+        "medical",
+        "atm",
+        "ada"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": false,
+      "numberOfReviews": 102,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T21:50:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T21:50:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T21:50:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T21:50:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T21:50:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T21:50:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00Z",
+          "close": "1901-01-02T21:50:00Z"
+        }
+      },
+      "starRating": 4.26797385620915,
+      "tagline": "Only the finest.",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97232",
+      "distanceToUser": 1.1194027185050068,
+      "locations": [{ "lat": 45.5284239, "lon": -122.6613485 }]
+    },
+    {
+      "name": "Belmont Collective",
+      "id": 108363,
+      "address1": "2036 SE Belmont St.",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://images.leafly.com/menu/Ld41cv3QWCCtZtZMAx7W_Logo-2020-gold.png",
+      "deals": [
+        {
+          "dealId": 2125690,
+          "details": "Stinky Pete, Dethman Ridge Skunk, Blue Dream",
+          "endDate": "2021-06-27T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2021-01-12T08:00:00+00:00",
+          "storeId": 108363,
+          "title": "Ounce Special! B-Buds Half Ounce for $55 Full ounce for $90 (Tax Included!)"
+        },
+        {
+          "dealId": 2106393,
+          "details": "1g Shatters from Original Extracts are $12.50 (tax already included) until they are gone. ",
+          "endDate": "2021-08-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/concentrates2.png",
+          "startDate": "2020-02-14T08:00:00+00:00",
+          "storeId": 108363,
+          "title": "$12.50 1g Shatters"
+        },
+        {
+          "dealId": 2111838,
+          "details": "ALL TOP SHELF FLOWER  $10 a Gram, $35 an 1/8th, $60 a 1/4, $100 a Half, $175 an Oz.  Mix and Match between any strains.  ",
+          "endDate": "2021-08-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2020-03-30T07:00:00+00:00",
+          "storeId": 108363,
+          "title": "WE CAN DO IT SALE!! "
+        },
+        {
+          "dealId": 2051967,
+          "details": "Get 10% off the entire store every day during early bird hours, 8am-10am!",
+          "endDate": "2024-03-13T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls1.png",
+          "startDate": "2019-09-26T07:00:00+00:00",
+          "storeId": 108363,
+          "title": "Early Bird Everyday"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "azlicensed",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 51,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T08:00:00.000Z",
+          "close": "1901-01-02T20:00:00.000Z"
+        }
+      },
+      "starRating": 4.705882352941177,
+      "tagline": "Best Local Dispensary",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97214",
+      "distanceToUser": 1.2760141970916543,
+      "locations": [{ "lat": 45.516246, "lon": -122.644721 }]
+    },
+    {
+      "name": "Pacific Gold Cannabis",
+      "id": 184427,
+      "address1": "1010 SW Gibbs St",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/OT1ru6OQiKATdZ0P9Qd9_https___s3.amazonaws.com_leafly-s3_logos_YiWmUX2zTtGCr0LsFsop_pacific-gold-cannabis-oregon.png",
+      "deals": [
+        {
+          "dealId": 2178835,
+          "details": "4/20 hangover sale extends into the weekend, come through today and tomorrow for the ultimate deals!\n\n-We will also be offering 20% off storewide\n\n-$80/oz special:\nJack Herer\nPurple Hindu Kush\nOgre\nOregon MAC\n\n-40% off select flower strains \nGolden Pineapple \nLemon Tonic\nHigh Desert Sour Sage \nBlue Magoo\nSkunk Teks Send Off\nJelly Rancher \nWhite Tahoe Cookies \nMunson \nDominion G\nJeager OG\n ",
+          "endDate": "2021-05-03T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other1.png",
+          "startDate": "2021-04-30T07:00:00+00:00",
+          "storeId": 184427,
+          "title": "4/20 hangover continues!"
+        },
+        {
+          "dealId": 2180481,
+          "details": "For the rest of the 2021 NBA season, we will be broadcasting blazer games at our dispensary. During these games, stop by and mention \"77\" to our bud tenders and receive a FREE FLOWER SMOKING ACCESSORY (Bong, Pipe or Grinder) with your purchase. ",
+          "endDate": "2021-06-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2021-05-02T07:00:00+00:00",
+          "storeId": 184427,
+          "title": "Blazers & Bongs \"Just say 77\""
+        },
+        {
+          "dealId": 2179702,
+          "details": " We want as many of our friends and neighbors as possible to take advantage of this promotion, It’s simple, show us proof of your completed COVID-19 vaccination card and receive 10% off your purchase and while supplies last a FREE glass or metal pipe! ",
+          "endDate": "2021-10-01T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls2.png",
+          "startDate": "2021-04-29T07:00:00+00:00",
+          "storeId": 184427,
+          "title": "Pot for Shots"
+        },
+        {
+          "dealId": 2164010,
+          "details": "Value at Pacific Gold is about feeling a sense of satisfaction that you paid the right price without sacrificing experience, quality or convenience\nWe’ll match the price if you buy a qualifying item, then find the identical item for less, at completive dispensaries within Portland.\nPrice matches may be requested at time of purchase.\nThis Includes Daily Deals",
+          "endDate": "2022-03-28T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/pre-rolls1.png",
+          "startDate": "2021-03-27T07:00:00+00:00",
+          "storeId": 184427,
+          "title": "We Price Match"
+        },
+        {
+          "dealId": 2089828,
+          "details": "Thank You for your service! We are now offering 20% OFF TO ALL VETERANS AND ACTIVE SERVICE MEMBERS!",
+          "endDate": "2022-09-03T06:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/nWtVE8f9TgGLTM19Renb_veterans-day-wallpaper-HD-02-1.jpg",
+          "startDate": "2019-10-20T07:00:00+00:00",
+          "storeId": 184427,
+          "title": "20% OFF VETERANS + ACTIVE SERVICE MEMBERS!"
+        },
+        {
+          "dealId": 2127006,
+          "details": "Drop Top Mondays: \nEach flower drops to the price tier below its original price  \n\nPhat Tuesdays:\n20% off Edibles\n\nReefer Wednesdays:\n20% off joint packs \n\nWellnessThursdays: \n20% off all  Topicals, Tinctures, RSO, and High CBD Products\n\nFocus Fridays:\n20% off Concentrates, Extracts and Cartridges \n\nSuper Saturday: \nYOU pick your daily deal \n\nSecret Stash Sunday: \nSpecial high end strain, not on the shelf for an incredible price ",
+          "endDate": "2023-03-11T07:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/other2.png",
+          "startDate": "2020-10-22T07:00:00+00:00",
+          "storeId": 184427,
+          "title": "Daily Deals "
+        },
+        {
+          "dealId": 2164989,
+          "details": "Med patients!! We carry a variety of bulk priced strains ranging from $300-$1200 for the half, call for details! (503) 477-5202",
+          "endDate": "2023-09-16T06:59:59+00:00",
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": "2021-03-29T07:00:00+00:00",
+          "storeId": 184427,
+          "title": "Medical 1/2 Lbs!!"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "ada",
+        "recreational"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 75,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T07:00:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T07:00:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T07:00:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T07:00:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T07:00:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T09:00:00.000Z",
+          "close": "1901-01-02T21:50:00.000Z"
+        }
+      },
+      "starRating": 4.746666666666667,
+      "tagline": "Highest Dispensary in PDX",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97239",
+      "distanceToUser": 1.3831274091198191,
+      "locations": [{ "lat": 45.4989339, "lon": -122.6905929 }]
+    },
+    {
+      "name": "Cannabliss & Co. - Burnside",
+      "id": 86026,
+      "address1": "2231 W. Burnside Street",
+      "address2": "",
+      "city": "Portland",
+      "coverImage": "https://leafly-public.imgix.net/dispensary/logos/fvA9TFMcSUa7caFOOIJR_Cannabliss%20Logo.png",
+      "deals": [
+        {
+          "dealId": 1334792,
+          "details": "With at least 60 strains on our shelves, what better way to try them all than with our Mix & Match option! As long as the strains are in the same price tier you can pick and choose which strains you take home today! Split your eights, quarters, half ounce or ounces however and whenever you'd like!",
+          "endDate": null,
+          "imageUrl": "https://s3-us-west-2.amazonaws.com/leafly-images/deals/preset/flower1.png",
+          "startDate": null,
+          "storeId": 86026,
+          "title": "$50, $60, $75, $99, $125 & $160 Mix & Match Ounces!"
+        },
+        {
+          "dealId": 2016093,
+          "details": "Get any TWO (2) or more edibles and get 10% off each!\nWYLD- Raspberry, Huckleberry, Marionberry, Peach and Strawberry 2 for $30 (+tax)\nWYLD- Pomegranate 1:1 Gummies 2 for $35 (+tax)",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/PDaH933QTiEHTb3OM0LQ_edibles-e1462554543596.png",
+          "startDate": null,
+          "storeId": 86026,
+          "title": "Eatable Deals!"
+        },
+        {
+          "dealId": 2024360,
+          "details": "Mix & Match at least TWO of any dabs or cartridges and get 10% off each product! \nGet your MAX- 5 grams and get 20% off!!!",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/xjk5BEF9QszqZEZV3TXA_Untitled.png",
+          "startDate": "2019-07-16T07:00:00+00:00",
+          "storeId": 86026,
+          "title": "Daily Mix & Match Oil Deals!"
+        },
+        {
+          "dealId": 2001768,
+          "details": "Every Tuesday pick up any of our $160 ounces OR $10 gram selection and receive 10% off!",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/h1I4J8T9r5W0heJHjwQ1_Purple Punchsicle MERAKI.jpeg",
+          "startDate": null,
+          "storeId": 86026,
+          "title": "Top Shelf Tuesday!"
+        },
+        {
+          "dealId": 2011176,
+          "details": "Enjoy any of our THC & 1:1 topicals with a 20% off discount! Choose from brands like Apothecanna, Medicine Farm Botanicals, High Desert Pure & more!",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/473qWfJJRmKum8Q1S7xW_topicals-howdotheywork.jpg",
+          "startDate": null,
+          "storeId": 86026,
+          "title": "Daily Topical SPECIAL!"
+        },
+        {
+          "dealId": 2022416,
+          "details": "Enjoy UP TO an ounce of any Burk Brothers strains for 20% off every day!\n\n*All prices are listed pre-tax*",
+          "endDate": null,
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/7jCe5FsZQEVw4ffb2p0A_BURKS Purple Breath.jpg",
+          "startDate": "2019-07-16T07:00:00+00:00",
+          "storeId": 86026,
+          "title": "20% off Burk Brothers Strains DAILY!"
+        },
+        {
+          "dealId": 1334791,
+          "details": "Purchase any five (5) of our in-house pre-rolls for only $17.50 or stock up on Ten (10) Pre-Rolls for $30! Available while supplies last!",
+          "endDate": "2020-02-02T07:59:59+00:00",
+          "imageUrl": "https://leafly-public.s3-us-west-2.amazonaws.com/dispensary/deals/custom/oXUWHzxmQXioxzv1FKHc_houseprerolls.jpg",
+          "startDate": null,
+          "storeId": 86026,
+          "title": "Five (5) Pre-rolls for $17.50 or Ten (10) Pre-Rolls for $30!"
+        }
+      ],
+      "flags": [
+        "storefront",
+        "veteran_discount",
+        "atm",
+        "licensed",
+        "cash",
+        "ada",
+        "recreational",
+        "medical"
+      ],
+      "formattedShortLocation": "Portland, OR",
+      "hasPickupEnabled": true,
+      "numberOfReviews": 201,
+      "schedule": {
+        "monday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "tuesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "wednesday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "thursday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "friday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "saturday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        },
+        "sunday": {
+          "isOpen": true,
+          "open": "1901-01-01T10:00:00Z",
+          "close": "1901-01-01T22:00:00Z"
+        }
+      },
+      "starRating": 4.39469320066335,
+      "tagline": "Got Weed?",
+      "timeZone": "America/Los_Angeles",
+      "zip": "97210",
+      "distanceToUser": 1.4416502003792544,
+      "locations": [{ "lat": 45.523471, "lon": -122.697035 }]
+    }
+  ],
+  "storesCount": 304,
+  "currentPage": 1,
+  "pageCount": 30
+}
